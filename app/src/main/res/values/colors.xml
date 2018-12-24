@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="colorText">#202020</color>
+    <color name="colorTextDisable">#b3b0b0</color>
+    <color name="colorTextHint">#737373</color>
+
 </resources>
